@@ -1,0 +1,9 @@
+streamlit
+pandas
+geopandas
+openpyxl
+python-dotenv
+google-genai
+shapely
+fiona
+pyproj
